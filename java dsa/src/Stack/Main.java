@@ -32,7 +32,7 @@ public class Main {
 
         q.display();
 
-        List<Integer> = new ArrayList<>();
+        List<Integer> mk = new ArrayList<>();
 
 
 
